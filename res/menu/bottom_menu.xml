@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Cart"
+        android:id="@+id/cart2"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@drawable/cart_ico"/>
+
+    <item
+        android:title="Favourate"
+        android:id="@+id/heart"
+        android:enabled="true"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_heart"/>
+
+
+</menu>
